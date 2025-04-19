@@ -1,2 +1,2 @@
 # afterlight
-An evocative, cyber‑end survival game to control the means of post-apocalypse production.
+An evocative, cyber‑end survival game to control the means of post-apocalyptic production.
